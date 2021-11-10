@@ -1,4 +1,4 @@
 # recipe-neotokyo
-Creamy SourceMod Updater recipe for Neotokyo – contains common NT public server plugins
+[Creamy SourceMod Updater](https://github.com/CreamySoup/soup) recipe for Neotokyo – contains common NT public server plugins.
 
-WIP!
+**WIP!**
