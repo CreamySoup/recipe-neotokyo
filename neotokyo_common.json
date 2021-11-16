@@ -3,44 +3,44 @@
 		{
 			"name": "neotokyo",
 			"about": "sourcemod-nt-include - The de facto NT standard include.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/sourcemod-nt-include/master/scripting/include/neotokyo.inc"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-include@master/scripting/include/neotokyo.inc"
 		},
 		{
 			"name": "nt_ghostcap_natives",
 			"about": "Natives for the nt_ghostcap plugin.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/nt-sourcemod-plugins/master/scripting/include/nt_ghostcap_natives.inc"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/nt-sourcemod-plugins@master/scripting/include/nt_ghostcap_natives.inc"
 		}
 	],
 	"plugins": [
 		{
 			"name": "nt_ghostcap",
 			"about": "Logs ghost capture event",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/nt-sourcemod-plugins/master/scripting/nt_ghostcap.sp"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/nt-sourcemod-plugins@master/scripting/nt_ghostcap.sp"
 		},
 		{
 			"name": "nt_anti_ghostcap_deny",
 			"about": "If the last living player of a team suicides (or gets posthumously teamkilled) to prevent a ghost cap, treat it as if the ghost cap happened.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/sourcemod-nt-anti-cap-deny/master/scripting/nt_anti_ghostcap_deny.sp"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-anti-cap-deny@master/scripting/nt_anti_ghostcap_deny.sp"
 		},
 		{
 			"name": "nt_srs_limiter",
 			"about": "SRS rof limiter timed from time of shot, inspired by Rain's nt_quickswitchlimiter.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/nt-srs-limiter/master/scripting/nt_srs_limiter.sp"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/nt-srs-limiter@master/scripting/nt_srs_limiter.sp"
 		},
 		{
 			"name": "nt_rates",
 			"about": "Improved interp and rate control.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/sourcemod-nt-rates/master/scripting/nt_rates.sp"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-rates@master/scripting/nt_rates.sp"
 		},
 		{
 			"name": "nt_spec_quicktarget",
 			"about": "Binds for quickly spectating where the action is.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/sourcemod-nt-spec-quicktarget/main/scripting/nt_spec_quicktarget.sp"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-spec-quicktarget@main/scripting/nt_spec_quicktarget.sp"
 		},
 		{
 			"name": "nt_anti_ghosthop",
 			"about": "Forces you to drop the ghost if going too fast mid-air.",
-			"source_url": "https://raw.githubusercontent.com/CreamySoup/sourcemod-nt-anti-ghosthop/main/scripting/nt_anti_ghosthop.sp"
+			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-anti-ghosthop@main/scripting/nt_anti_ghosthop.sp"
 		}
 	]
 }
