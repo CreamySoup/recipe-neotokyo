@@ -40,7 +40,7 @@
         {
             "name": "nt_anti_ghosthop",
             "about": "Forces you to drop the ghost if going too fast mid-air.",
-            "source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-anti-ghosthop@main/scripting/nt_anti_ghosthop.sp"
+            "source_url": "https://cdn.jsdelivr.net/gh/Rainyan/sourcemod-nt-anti-ghosthop@ww22/scripting/nt_anti_ghosthop.sp"
         }
     ]
 }
