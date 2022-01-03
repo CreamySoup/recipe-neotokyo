@@ -10,11 +10,11 @@
             "about": "Natives for the nt_ghostcap plugin.",
             "source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/nt-sourcemod-plugins@master/scripting/include/nt_ghostcap_natives.inc"
         },
-		{
-			"name": "sp_shims",
-			"about": "Compatibility shims for SM backwards compatibility.",
-			"source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-spec-quicktarget@main/scripting/include/sp_shims.inc"
-		}
+        {
+            "name": "sp_shims",
+            "about": "Compatibility shims for SM backwards compatibility.",
+            "source_url": "https://cdn.jsdelivr.net/gh/CreamySoup/sourcemod-nt-spec-quicktarget@main/scripting/include/sp_shims.inc"
+        }
     ],
     "plugins": [
         {
